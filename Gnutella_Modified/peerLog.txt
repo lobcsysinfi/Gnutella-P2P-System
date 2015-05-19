@@ -1,0 +1,527 @@
+2014-10-05 14:01:43		File yy.txt is registered on the local peer!
+2014-10-05 14:01:49		File yy.txt is registered on the local peer!
+p1 neighor peer information:p2 	
+2014-10-12 21:11:45		File 1.txt is registered on the local peer!
+2014-10-12 21:12:14		Receive: query 1 1.txt p2	
+2014-10-12 21:12:14		File 1.txt is found on p1
+2014-10-12 21:12:14		Send:query 1 1.txt p1	
+2014-10-12 21:12:14		Send:hitQuery 1 1.txt p1	
+2014-10-12 21:12:14		Receive: hitQuery 1 1.txt p2	
+2014-10-12 21:12:14		Send:hitQuery 1 1.txt p1	
+2014-10-12 21:12:14		Receive: query 2 1.txt p2	
+2014-10-12 21:12:14		File 1.txt is found on p1
+2014-10-12 21:12:14		Send:hitQuery 2 1.txt p1	
+2014-10-12 21:12:14		Receive: hitQuery 1 1.txt p2	
+2014-10-12 21:12:14		Send:hitQuery 1 1.txt p1	
+2014-10-12 21:12:36		Receive: query 3 1.txt p2	
+2014-10-12 21:12:36		File 1.txt is found on p1
+2014-10-12 21:12:36		Send:query 2 1.txt p1	
+2014-10-12 21:12:36		Send:hitQuery 3 1.txt p1	
+2014-10-12 21:12:36		Receive: query 4 1.txt p2	
+2014-10-12 21:12:36		File 1.txt is found on p1
+2014-10-12 21:12:36		Receive: hitQuery 2 1.txt p2	
+2014-10-12 21:12:36		Send:hitQuery 4 1.txt p1	
+2014-10-12 21:12:36		Send:hitQuery 3 1.txt p1	
+2014-10-12 21:12:36		Receive: hitQuery 2 1.txt p2	
+2014-10-12 21:12:36		Send:hitQuery 3 1.txt p1	
+p1 neighor peer information:p2 	
+p1 neighor peer information:p2 	
+2014-10-12 21:43:26		File yy.txt is registered on the local peer!
+2014-10-12 21:43:31		Send:query 1 yy.txt p1	
+2014-10-12 21:43:32		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 21:43:32		Receive message: File yy.txt is found on p1
+2014-10-12 21:43:32		Receive: query 1 yy.txt p2	
+2014-10-12 21:43:32		File yy.txt is found on p1
+2014-10-12 21:43:32		Send:query 2 yy.txt p1	
+2014-10-12 21:43:32		Send:hitQuery 1 yy.txt p1	
+2014-10-12 21:43:32		Receive: hitQuery 2 yy.txt p2	
+2014-10-12 21:43:32		Send:hitQuery 1 yy.txt p1	
+2014-10-12 21:43:32		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 21:43:32		Receive message: File yy.txt is found on p1
+2014-10-12 21:43:32		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 21:43:32		Receive message: File yy.txt is found on p1
+p1 neighor peer information:p2 	
+2014-10-12 21:52:41		Send:query 1 yy.txt p1	
+2014-10-12 21:52:41		Receive: query 1 yy.txt p2	
+2014-10-12 21:52:41		Send:hitQuery 1 yy.txt p1	
+2014-10-12 21:52:41		Send:query 2 yy.txt p1	
+2014-10-12 21:52:41		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 21:52:41		Receive message: File yy.txt is found on p1
+2014-10-12 21:52:42		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 21:52:42		Receive: hitQuery 2 yy.txt p2	
+2014-10-12 21:52:42		Send:hitQuery 1 yy.txt p1	
+2014-10-12 21:52:42		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 21:52:42		Receive message: File yy.txt is found on p1
+p1 neighor peer information:p2 	
+2014-10-12 22:01:15		Send:query 1 yy.txt p1	
+2014-10-12 22:01:15		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 22:01:15		Receive message: File yy.txt is found on p1
+p1 neighor peer information:p2 	
+2014-10-12 22:02:12		Send:query 1 yy.txt p1	
+2014-10-12 22:02:13		Receive: hitQuery 1 yy.txt p2	
+2014-10-12 22:02:13		Receive message: File yy.txt is found on p1
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-14 23:02:13		Send:query 1 yy.txt p1	
+2014-10-14 23:02:13		Send:query 2 yy.txt p1	
+2014-10-14 23:02:14		Receive: hitQuery 2 yy.txt p3	
+2014-10-14 23:02:14		Receive message: File yy.txt is found on p1
+2014-10-14 23:02:15		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:02:15		Receive: hitQuery 1 yy.txt p2	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-14 23:03:12		Send:query 1 yy.txt p1	
+2014-10-14 23:03:12		Send:query 2 yy.txt p1	
+2014-10-14 23:03:12		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:03:12		Receive: hitQuery 2 yy.txt p3	
+2014-10-14 23:03:12		Receive message: File yy.txt is found on p1
+2014-10-14 23:03:12		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:03:12		Receive message: File yy.txt is found on p1
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-14 23:07:43		Send:query 1 yy.txt p1	
+2014-10-14 23:07:43		Send:query 2 yy.txt p1	
+2014-10-14 23:07:44		Receive: hitQuery 2 yy.txt p3	
+2014-10-14 23:07:44		Receive message: File yy.txt is found on p1
+2014-10-14 23:07:44		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:07:45		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:07:45		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:07:45		Receive message: File yy.txt is found on p1
+2014-10-14 23:10:16		Send:query 3 y.txt p1	
+2014-10-14 23:10:16		Send:query 4 y.txt p1	
+2014-10-14 23:10:16		Receive: hitQuery 4 y.txt p3	
+2014-10-14 23:10:16		Receive: hitQuery 3 y.txt p2	
+2014-10-14 23:10:16		Receive: hitQuery 3 y.txt p2	
+2014-10-14 23:10:16		Receive: hitQuery 3 y.txt p2	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-14 23:11:16		Send:query 1 yy.txt p1	
+2014-10-14 23:11:16		Send:query 2 yy.txt p1	
+2014-10-14 23:11:16		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:11:16		Receive: hitQuery 2 yy.txt p3	
+2014-10-14 23:11:16		Receive message: File yy.txt is found on p1
+2014-10-14 23:11:16		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:11:16		Receive: hitQuery 1 yy.txt p2	
+2014-10-14 23:11:16		Receive message: File yy.txt is found on p1
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-15 12:02:31		Send:query 1 yy.txt p1	
+2014-10-15 12:02:31		Send:query 2 yy.txt p1	
+2014-10-15 12:02:31		Receive: hitQuery 2 yy.txt p3	
+2014-10-15 12:02:31		Receive message: File yy.txt is found on p1
+2014-10-15 12:02:31		Receive: hitQuery 1 yy.txt p2	
+2014-10-15 12:02:32		Receive: hitQuery 1 yy.txt p2	
+2014-10-15 12:02:32		Receive: hitQuery 1 yy.txt p2	
+2014-10-15 12:02:32		Receive message: File yy.txt is found on p1
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-17 12:50:46		Send:query 1 yy.txt p1	
+2014-10-17 12:50:46		Send:query 2 yy.txt p1	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-17 12:51:32		Send:query 1 yy.txt p1	
+2014-10-17 12:51:32		Send:query 2 yy.txt p1	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 16:52:46		File New Text Document.txt is registered on the local peer!
+2014-10-29 16:52:46		File yy.txt is registered on the local peer!
+2014-10-29 16:52:57		File New Text Document.txt is unregistered on the index server!
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 16:54:57		File New Text Document.txt is registered on the local peer!
+2014-10-29 16:54:57		File yy.txt is registered on the local peer!
+2014-10-29 16:55:04		File New Text Document.txt is unregistered on the index server!
+p1 neighor peer information:p2 	
+2014-10-29 17:03:00		File yy.txt is registered on the local peer!
+2014-10-29 17:03:15		Receive: query 1 yy.txt p2	
+2014-10-29 17:03:15		Send:hitQuery 1 yy.txt p1	
+p1 neighor peer information:p2 	
+2014-10-29 17:08:12		File yy.txt is registered on the local peer!
+2014-10-29 17:08:37		Receive: query 1 yy.txt p2	
+2014-10-29 17:08:37		File yy.txt is found on p1
+2014-10-29 17:08:37		Send:hitQuery 1 yy.txt p1	
+2014-10-29 17:08:48		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 18:13:42		File yy.txt is registered on the local peer!
+2014-10-29 18:14:17		Receive: query 1 yy.txt p2	
+2014-10-29 18:14:17		File yy.txt is found on p1
+2014-10-29 18:14:17		Send:query 1 yy.txt p1	
+2014-10-29 18:14:17		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:14:17		Receive: hitQuery 1 yy.txt p3	
+2014-10-29 18:14:17		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:14:27		Send yy.txtsuccessfully!	
+2014-10-29 18:17:17		Receive: query 1 yy.txt p3	
+2014-10-29 18:17:17		File yy.txt is found on p1
+2014-10-29 18:17:17		Send:query 2 yy.txt p1	
+2014-10-29 18:17:17		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:17:17		Receive: hitQuery 2 yy.txt p2	
+2014-10-29 18:17:17		Send:hitQuery 1 yy.txt p1	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 18:29:00		File yy.txt is registered on the local peer!
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 18:29:13		File yy.txt is registered on the local peer!
+p2 neighor peer information:p1 	
+2014-10-29 18:29:25		File yy.txt is registered on the local peer!
+2014-10-29 18:29:42		Send:query 1 yy.txt p2	
+2014-10-29 18:29:42		Receive: query 1 yy.txt p2	
+2014-10-29 18:29:42		File yy.txt is found on p1
+2014-10-29 18:29:42		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:29:42		Send:query 1 yy.txt p1	
+2014-10-29 18:29:42		Receive: hitQuery 1 yy.txt p1	
+2014-10-29 18:29:43		Receive: hitQuery 1 yy.txt p3	
+2014-10-29 18:29:43		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:29:43		Receive: hitQuery 1 yy.txt p1	
+2014-10-29 18:29:50		Send yy.txtsuccessfully!	
+2014-10-29 18:29:50		File yy.txt is registered on the local peer!
+2014-10-29 18:29:58		Receive: query 1 yy.txt p3	
+2014-10-29 18:29:58		File yy.txt is found on p1
+2014-10-29 18:29:58		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:29:58		Send:query 2 yy.txt p1	
+2014-10-29 18:29:58		Receive: query 2 yy.txt p1	
+2014-10-29 18:29:58		File yy.txt is found on p2
+2014-10-29 18:29:58		Send:hitQuery 2 yy.txt p2	
+2014-10-29 18:29:58		Receive: hitQuery 2 yy.txt p2	
+2014-10-29 18:29:58		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:30:09		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 18:32:42		File yy.txt is registered on the local peer!
+2014-10-29 18:33:06		Receive: query 1 yy.txt p2	
+2014-10-29 18:33:06		File yy.txt is found on p1
+2014-10-29 18:33:06		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:33:06		Send:query 1 yy.txt p1	
+2014-10-29 18:33:06		Receive: hitQuery 1 yy.txt p3	
+2014-10-29 18:33:06		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:34:29		Receive: query 1 yy.txt p2	
+2014-10-29 18:34:29		File yy.txt is found on p1
+2014-10-29 18:34:29		Send:query 2 yy.txt p1	
+2014-10-29 18:34:29		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:34:29		Receive: hitQuery 2 yy.txt p3	
+2014-10-29 18:34:29		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:34:40		Send yy.txtsuccessfully!	
+2014-10-29 18:35:16		Receive: query 1 yy.txt p3	
+2014-10-29 18:35:16		File yy.txt is found on p1
+2014-10-29 18:35:16		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:35:16		Receive: hitQuery 3 yy.txt p2	
+2014-10-29 18:35:16		Send:hitQuery 1 yy.txt p1	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 18:36:13		File yy.txt is registered on the local peer!
+2014-10-29 18:36:49		Receive: query 1 yy.txt p2	
+2014-10-29 18:36:49		File yy.txt is found on p1
+2014-10-29 18:36:49		Send:query 1 yy.txt p1	
+2014-10-29 18:36:49		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:36:49		Receive: hitQuery 1 yy.txt p3	
+2014-10-29 18:36:49		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:36:56		Send yy.txtsuccessfully!	
+2014-10-29 18:37:10		Receive: query 1 yy.txt p3	
+2014-10-29 18:37:10		File yy.txt is found on p1
+2014-10-29 18:37:10		Send:query 2 yy.txt p1	
+2014-10-29 18:37:10		Send:hitQuery 1 yy.txt p1	
+2014-10-29 18:37:10		Receive: hitQuery 2 yy.txt p2	
+2014-10-29 18:37:10		Send:hitQuery 1 yy.txt p1	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+2014-10-29 20:31:16		File yy.txt is registered on the local peer!
+2014-10-29 20:32:09		Receive: query 1 yy.txt p2	
+2014-10-29 20:32:09		File yy.txt is found on p1
+2014-10-29 20:32:09		Send:query 1 yy.txt p1	
+2014-10-29 20:32:09		Send:hitQuery 1 yy.txt p1	
+2014-10-29 20:32:10		Receive: hitQuery 1 yy.txt p3	
+2014-10-29 20:32:10		Send:hitQuery 1 yy.txt p1	
+2014-10-29 20:32:17		Send yy.txtsuccessfully!	
+2014-10-29 20:32:37		Receive: query 1 yy.txt p3	
+2014-10-29 20:32:37		File yy.txt is found on p1
+2014-10-29 20:32:37		Send:query 2 yy.txt p1	
+2014-10-29 20:32:37		Send:hitQuery 1 yy.txt p1	
+2014-10-29 20:32:37		Receive: hitQuery 2 yy.txt p2	
+2014-10-29 20:32:37		Send:hitQuery 1 yy.txt p1	
+2014-10-29 20:32:59		Receive: query 1 yy.txt p3	
+2014-10-29 20:32:59		File yy.txt is found on p1
+2014-10-29 20:32:59		Send:query 3 yy.txt p1	
+2014-10-29 20:32:59		Send:hitQuery 1 yy.txt p1	
+2014-10-29 20:32:59		Receive: hitQuery 3 yy.txt p2	
+2014-10-29 20:32:59		Send:hitQuery 1 yy.txt p1	
+2014-10-29 20:34:15		Send:query 4 yy.txt p1	
+2014-10-29 20:34:15		Receive: query 2 yy.txt p2	
+2014-10-29 20:34:15		File yy.txt is found on p1
+2014-10-29 20:34:15		Send:hitQuery 2 yy.txt p1	
+2014-10-29 20:34:15		Receive: hitQuery 4 yy.txt p3	
+2014-10-29 20:34:15		Send:hitQuery 2 yy.txt p1	
+2014-10-29 20:34:22		Send yy.txtsuccessfully!	
+2014-10-29 20:34:30		Receive: query 2 yy.txt p3	
+2014-10-29 20:34:30		File yy.txt is found on p1
+2014-10-29 20:34:30		Send:query 5 yy.txt p1	
+2014-10-29 20:34:30		Send:hitQuery 2 yy.txt p1	
+2014-10-29 20:34:30		Receive: hitQuery 5 yy.txt p2	
+2014-10-29 20:34:30		Send:hitQuery 2 yy.txt p1	
+2014-10-29 20:34:45		Receive: query 3 test.txt p3	
+2014-10-29 20:34:45		Send:query 6 test.txt p1	
+2014-10-29 20:34:45		Send:hitQuery 3 test.txt p1	
+2014-10-29 20:34:45		Receive: hitQuery 6 test.txt p2	
+2014-10-29 20:34:45		Send:hitQuery 3 test.txt p1	
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+pull/push:true/true	
+2014-10-29 21:12:38		File yy.txt is registered on the local peer!
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+pull/push:false/false	
+2014-10-29 21:13:13		File yy.txt is registered on the local peer!
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+pull/push:false/false	
+2014-10-29 21:13:24		File yy.txt is registered on the local peer!
+p1 neighor peer information:p2 p1 neighor peer information:p3 	
+pull/push:false/false	
+2014-10-29 21:13:29		File yy.txt is registered on the local peer!
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-29 22:57:15		File yy.txt is registered on the local peer!
+2014-10-29 22:57:46		Receive: query 1 yy.txt p2	
+2014-10-29 22:57:46		File yy.txt is found on p1
+2014-10-29 22:57:46		Send:hitQuery 1 yy.txt p1	
+2014-10-29 22:57:52		Send yy.txtsuccessfully!	
+2014-10-29 22:58:14		File yy.txt is modified! Version number is 2
+2014-10-29 22:58:14		Send:push yy.txt version 2	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-29 22:59:39		File yy.txt is registered on the local peer!
+2014-10-29 23:00:23		Receive: query 1 yy.txt p2	
+2014-10-29 23:00:23		File yy.txt is found on p1
+2014-10-29 23:00:23		Send:hitQuery 1 yy.txt p1	
+2014-10-29 23:00:28		Send yy.txtsuccessfully!	
+2014-10-29 23:00:36		Receive: query 2 yy.txt p2	
+2014-10-29 23:00:36		File yy.txt is found on p1
+2014-10-29 23:00:36		Send:hitQuery 2 yy.txt p1	
+2014-10-29 23:01:15		File yy.txt is modified! Version number is 2
+2014-10-29 23:01:15		Send:push yy.txt version 2	
+2014-10-29 23:01:29		Receive: query 4 yy.txt p2	
+2014-10-29 23:01:29		File yy.txt is found on p1
+2014-10-29 23:01:29		Send:hitQuery 4 yy.txt p1	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-29 23:12:16		File yy.txt is registered on the local peer!
+2014-10-29 23:13:30		Receive: query 1 yy.txt p2	
+2014-10-29 23:13:30		File yy.txt is found on p1
+2014-10-29 23:13:30		Send:hitQuery 1 yy.txt p1	
+2014-10-29 23:13:36		Send yy.txtsuccessfully!	
+2014-10-29 23:13:45		Receive: query 2 yy.txt p2	
+2014-10-29 23:13:45		File yy.txt is found on p1
+2014-10-29 23:13:45		Send:hitQuery 2 yy.txt p1	
+2014-10-29 23:14:08		Receive: query 4 yy.txt p2	
+2014-10-29 23:14:08		File yy.txt is found on p1
+2014-10-29 23:14:08		Send:hitQuery 4 yy.txt p1	
+2014-10-29 23:14:35		File yy.txt is modified! Version number is 2
+2014-10-29 23:14:35		Send:push yy.txt version 2	
+2014-10-29 23:14:53		Receive: query 6 yy.txt p2	
+2014-10-29 23:14:54		File yy.txt is found on p1
+2014-10-29 23:14:54		Send:hitQuery 6 yy.txt p1	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-29 23:20:12		File yy.txt is registered on the local peer!
+2014-10-29 23:20:32		Receive: query 1 yy.txt p2	
+2014-10-29 23:20:32		File yy.txt is found on p1
+2014-10-29 23:20:32		Send:hitQuery 1 yy.txt p1	
+2014-10-29 23:20:37		Send yy.txtsuccessfully!	
+2014-10-29 23:20:46		Receive: query 2 yy.txt p2	
+2014-10-29 23:20:46		File yy.txt is found on p1
+2014-10-29 23:20:46		Send:hitQuery 2 yy.txt p1	
+2014-10-29 23:21:15		File yy.txt is modified! Version number is 2
+2014-10-29 23:21:15		Send:push yy.txt version 2	
+2014-10-29 23:21:41		Receive: query 4 yy.txt p2	
+2014-10-29 23:21:41		File yy.txt is found on p1
+2014-10-29 23:21:41		Send:hitQuery 4 yy.txt p1	
+2014-10-29 23:22:29		Receive: query 6 yy.txt p2	
+2014-10-29 23:22:29		File yy.txt is found on p1
+2014-10-29 23:22:29		Send:hitQuery 6 yy.txt p1	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-29 23:28:48		File yy.txt is registered on the local peer!
+2014-10-29 23:30:03		Receive: query 1 yy.txt p2	
+2014-10-29 23:30:03		File yy.txt is found on p1
+2014-10-29 23:30:03		Send:hitQuery 1 yy.txt p1	
+2014-10-29 23:30:09		Send yy.txtsuccessfully!	
+2014-10-29 23:30:24		Receive: query 2 yy.txt p2	
+2014-10-29 23:30:24		File yy.txt is found on p1
+2014-10-29 23:30:24		Send:hitQuery 2 yy.txt p1	
+2014-10-29 23:30:30		Send yy.txtsuccessfully!	
+2014-10-29 23:30:54		File yy.txt is modified! Version number is 2
+2014-10-29 23:30:54		Send:push yy.txt version 2	
+2014-10-29 23:31:07		Receive: query 4 yy.txt p2	
+2014-10-29 23:31:07		File yy.txt is found on p1
+2014-10-29 23:31:07		Send:hitQuery 4 yy.txt p1	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 14:03:59		File yy.txt is registered on the local peer!
+2014-10-30 14:05:23		Receive: query 1 yy.txt p2	
+2014-10-30 14:05:23		File yy.txt is found on p1
+2014-10-30 14:05:23		Send:hitQuery 1 yy.txt p1	
+2014-10-30 14:05:31		Send yy.txtsuccessfully!	
+2014-10-30 14:06:01		File yy.txt is modified! Version number is 2
+2014-10-30 14:06:01		Send:push yy.txt version 2	
+p1 neighor peer information:p2 	
+pull/push:true/false	
+2014-10-30 14:07:33		File yy.txt is registered on the local peer!
+2014-10-30 14:08:15		Receive: query 1 yy.txt p2	
+2014-10-30 14:08:15		File yy.txt is found on p1
+2014-10-30 14:08:15		Send:hitQuery 1 yy.txt p1	
+2014-10-30 14:08:20		Send yy.txtsuccessfully!	
+2014-10-30 14:08:32		File yy.txt is modified! Version number is 2
+2014-10-30 14:09:20		Receive: pull yy.txt version 1	
+2014-10-30 14:09:36		Receive: query 2 yy.txt p2	
+2014-10-30 14:09:36		File yy.txt is found on p1
+2014-10-30 14:09:36		Send:hitQuery 2 yy.txt p1	
+p1 neighor peer information:p2 	
+pull/push:true/false	
+2014-10-30 14:15:30		File yy.txt is registered on the local peer!
+2014-10-30 14:16:22		Receive: query 1 yy.txt p2	
+2014-10-30 14:16:22		File yy.txt is found on p1
+2014-10-30 14:16:22		Send:hitQuery 1 yy.txt p1	
+2014-10-30 14:16:28		Send yy.txtsuccessfully!	
+2014-10-30 14:17:28		Receive: pull yy.txt version 1	
+p1 neighor peer information:p2 	
+pull/push:true/false	
+2014-10-30 14:28:00		File yy.txt is registered on the local peer!
+2014-10-30 14:28:20		Receive: query 1 yy.txt p2	
+2014-10-30 14:28:20		File yy.txt is found on p1
+2014-10-30 14:28:20		Send:hitQuery 1 yy.txt p1	
+2014-10-30 14:28:25		Send yy.txtsuccessfully!	
+2014-10-30 14:29:25		Receive: pull yy.txt version 1	
+2014-10-30 14:29:53		File yy.txt is modified! Version number is 2
+2014-10-30 14:30:25		Receive: pull yy.txt version 1	
+p1 neighor peer information:p2 	
+pull/push:true/false	
+2014-10-30 16:32:45		File yy.txt is registered on the local peer!
+2014-10-30 16:33:42		Receive: query 1 yy.txt p2	
+2014-10-30 16:33:42		File yy.txt is found on p1
+2014-10-30 16:33:42		Send:hitQuery 1 yy.txt p1	
+2014-10-30 16:33:48		Send yy.txtsuccessfully!	
+2014-10-30 16:34:51		Receive: query 2 yy.txt p2	
+2014-10-30 16:34:51		File yy.txt is found on p1
+2014-10-30 16:34:51		Send:hitQuery 2 yy.txt p1	
+2014-10-30 16:35:08		Send yy.txtsuccessfully!	
+2014-10-30 16:36:08		Receive: pull yy.txt version 1	
+2014-10-30 16:37:08		Receive: pull yy.txt version 1	
+p1 neighor peer information:p2 	
+pull/push:true/false	
+2014-10-30 16:37:49		File yy.txt is registered on the local peer!
+2014-10-30 16:38:30		Receive: query 1 yy.txt p2	
+2014-10-30 16:38:30		File yy.txt is found on p1
+2014-10-30 16:38:30		Send:hitQuery 1 yy.txt p1	
+2014-10-30 16:38:37		Send yy.txtsuccessfully!	
+2014-10-30 16:39:37		Receive: pull yy.txt version 1	
+2014-10-30 16:40:37		Receive: pull yy.txt version 1	
+2014-10-30 16:41:37		Receive: pull yy.txt version 1	
+2014-10-30 16:42:15		File yy.txt is modified! Version number is 2
+2014-10-30 16:42:37		Receive: pull yy.txt version 1	
+2014-10-30 16:42:51		Send:hitQuery 2 yy.txt p1	
+2014-10-30 16:42:51		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 	
+pull/push:true/false	
+2014-10-30 17:06:08		File yy.txt is registered on the local peer!
+2014-10-30 17:06:20		Receive: query 1 yy.txt p2	
+2014-10-30 17:06:20		File yy.txt is found on p1
+2014-10-30 17:06:20		Send:hitQuery 1 yy.txt p1	
+2014-10-30 17:06:24		Send yy.txtsuccessfully!	
+2014-10-30 17:06:32		File yy.txt is modified! Version number is 2
+2014-10-30 17:07:24		Receive: pull yy.txt version 1	
+2014-10-30 17:07:29		Send:hitQuery 2 yy.txt p1	
+2014-10-30 17:07:29		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 17:15:10		File yy.txt is registered on the local peer!
+2014-10-30 17:15:37		Receive: query 1 yy.txt p2	
+2014-10-30 17:15:37		File yy.txt is found on p1
+2014-10-30 17:15:37		Send:hitQuery 1 yy.txt p1	
+2014-10-30 17:15:43		Send yy.txtsuccessfully!	
+2014-10-30 17:15:51		File yy.txt is modified! Version number is 2
+2014-10-30 17:15:51		Send:push yy.txt version 2	
+2014-10-30 17:15:58		Send:hitQuery 2 yy.txt p1	
+2014-10-30 17:15:58		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 17:41:38		File yy.txt is registered on the local peer!
+2014-10-30 17:41:50		Receive: query 1 yy.txt p2	
+2014-10-30 17:41:50		File yy.txt is found on p1
+2014-10-30 17:41:50		Send:hitQuery 1 yy.txt p1	
+2014-10-30 17:41:56		Send yy.txtsuccessfully!	
+2014-10-30 17:42:07		File yy.txt is modified! Version number is 2
+2014-10-30 17:42:07		Send:push yy.txt version 2	
+2014-10-30 17:42:13		Send yy.txtsuccessfully!	
+
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 18:21:19		File yy.txt is registered on the local peer!
+2014-10-30 18:21:53		Receive: query 1 yy.txt p2	
+2014-10-30 18:21:53		File yy.txt is found on p1
+2014-10-30 18:21:53		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:22:01		Send yy.txtsuccessfully!	
+2014-10-30 18:22:11		File yy.txt is modified! Version number is 2
+2014-10-30 18:22:11		Send:push yy.txt version 2	
+2014-10-30 18:22:17		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:22:17		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 18:25:29		File yy.txt is registered on the local peer!
+2014-10-30 18:25:41		Receive: query 1 yy.txt p2	
+2014-10-30 18:25:41		File yy.txt is found on p1
+2014-10-30 18:25:41		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:25:50		Send yy.txtsuccessfully!	
+2014-10-30 18:26:12		File yy.txt is modified! Version number is 2
+2014-10-30 18:26:12		Send:push yy.txt version 2	
+2014-10-30 18:26:17		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:26:18		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 18:28:13		File yy.txt is registered on the local peer!
+2014-10-30 18:28:47		Receive: query 1 yy.txt p2	
+2014-10-30 18:28:47		File yy.txt is found on p1
+2014-10-30 18:28:47		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:28:52		Send yy.txtsuccessfully!	
+2014-10-30 18:29:00		File yy.txt is modified! Version number is 2
+2014-10-30 18:29:00		Send:push yy.txt version 2	
+2014-10-30 18:29:05		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:29:05		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 18:39:23		File yy.txt is registered on the local peer!
+2014-10-30 18:39:33		Receive: query 1 yy.txt p2	
+2014-10-30 18:39:33		File yy.txt is found on p1
+2014-10-30 18:39:33		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:39:39		Send yy.txtsuccessfully!	
+2014-10-30 18:39:47		File yy.txt is modified! Version number is 2
+2014-10-30 18:39:47		Send:push yy.txt version 2	
+2014-10-30 18:39:54		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:39:54		Send yy.txtsuccessfully!	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 18:47:10		File yy.txt is registered on the local peer!
+2014-10-30 18:47:22		Receive: query 1 yy.txt p2	
+2014-10-30 18:47:22		File yy.txt is found on p1
+2014-10-30 18:47:22		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:47:27		Send yy.txtsuccessfully!	
+2014-10-30 18:47:47		File yy.txt is modified! Version number is 2
+2014-10-30 18:47:47		Send:push yy.txt version 2	
+2014-10-30 18:47:52		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:47:52		Send yy.txtsuccessfully!	
+2014-10-30 18:48:47		Receive: query 1 yy.txt p2	
+2014-10-30 18:48:47		File yy.txt is found on p1
+2014-10-30 18:48:47		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:48:53		Send yy.txtsuccessfully!	
+2014-10-30 18:49:53		Receive: pull yy.txt version 2	
+2014-10-30 18:51:34		Receive: query 1 yy.txt p2	
+2014-10-30 18:51:34		File yy.txt is found on p1
+2014-10-30 18:51:34		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:51:40		Send yy.txtsuccessfully!	
+2014-10-30 18:52:40		Receive: pull yy.txt version 2	
+p1 neighor peer information:p2 	
+pull/push:true/true	
+2014-10-30 18:53:18		File yy.txt is registered on the local peer!
+2014-10-30 18:53:28		Receive: query 1 yy.txt p2	
+2014-10-30 18:53:28		File yy.txt is found on p1
+2014-10-30 18:53:28		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:53:34		Send yy.txtsuccessfully!	
+2014-10-30 18:53:45		File yy.txt is modified! Version number is 2
+2014-10-30 18:53:45		Send:push yy.txt version 2	
+2014-10-30 18:53:51		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:53:52		Send yy.txtsuccessfully!	
+2014-10-30 18:54:34		Receive: pull yy.txt version 2	
+2014-10-30 18:54:52		Receive: pull yy.txt version 2	
+2014-10-30 18:55:34		Receive: pull yy.txt version 2	
+2014-10-30 18:55:52		Receive: pull yy.txt version 2	
+2014-10-30 18:56:30		Receive: query 1 yy.txt p2	
+2014-10-30 18:56:30		File yy.txt is found on p1
+2014-10-30 18:56:30		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:56:36		Send yy.txtsuccessfully!	
+2014-10-30 18:56:47		File yy.txt is modified! Version number is 3
+2014-10-30 18:56:47		Send:push yy.txt version 3	
+2014-10-30 18:57:11		Send:hitQuery 1 yy.txt p1	
+2014-10-30 18:57:12		Send yy.txtsuccessfully!	
